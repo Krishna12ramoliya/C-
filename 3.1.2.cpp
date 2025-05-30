@@ -70,3 +70,77 @@ int main()
 	
 	
 }
+/*
+id:101
+name:krishna
+age:19
+city:surat
+mobile num:9423467771
+simcard_validity:5
+telecom_brand_name:jio
+id:102
+name:sanvi
+age:18
+city:vadodra
+mobile num:7896541234
+simcard_validity:4
+telecom_brand_name:airtel
+id:103
+name:karan
+age:22
+city:ahemdabad
+mobile num:8140267837
+simcard_validity:6
+telecom_brand_name:vi
+id:104
+name:axil
+age:20
+city:surat
+mobile num:6789013425
+simcard_validity:5
+telecom_brand_name:airtel
+id:105
+name:pari
+age:19
+city:mumbai
+mobile num:2345167459
+simcard_validity:5
+telecom_brand_name:vi
+id:101
+name:krishna
+age:19
+city:surat
+mobile num:9423467771
+simcard_validity:5
+telecom_brand_name:jio
+id:102
+name:sanvi
+age:18
+city:vadodra
+mobile num:7896541234
+simcard_validity:4
+telecom_brand_name:airtel
+id:103
+name:karan
+age:22
+city:ahemdabad
+mobile num:8140267837
+simcard_validity:6
+telecom_brand_name:vi
+id:104
+name:axil
+age:20
+city:surat
+mobile num:6789013425
+simcard_validity:5
+telecom_brand_name:airtel
+id:105
+name:pari
+age:19
+city:mumbai
+mobile num:2345167459
+simcard_validity:5
+telecom_brand_name:vi
+
+--------------------------------
+*/
